@@ -86771,10 +86771,10 @@ A.MG.prototype={
 M(a){var s=A.qL(B.a5,null,B.u3,!0),r=A.qL(B.ac,null,B.u3,!0)
 return new A.uj($.aGl(),"OTC App",s,r,!0,null)}}
 A.a6_.prototype={
-$0(){return A.aAe(A.azm("http://localhost:8000",B.fJ,B.fJ))},
+$0(){return A.aAe(A.azm("https://teamoregama.pythonanywhere.com",B.fJ,B.fJ))},
 $S:558}
 A.a60.prototype={
-$0(){var s=A.aAe(A.azm("http://localhost:8000",B.fJ,B.fJ)),r=$.aJ8(),q=s.VH$,p=t.N
+$0(){var s=A.aAe(A.azm("https://teamoregama.pythonanywhere.com",B.fJ,B.fJ)),r=$.aJ8(),q=s.VH$,p=t.N
 q.N(q,A.c([new A.AY(A.n(p,p)),new A.xT(A.n(p,t.zQ)),new A.xU(A.n(p,p)),new A.xK(A.n(p,p))],t.lC))
 return new A.vM(s,r)},
 $S:559}
