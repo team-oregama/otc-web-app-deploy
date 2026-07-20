@@ -1,6 +1,6 @@
 {
-    "name": "otc_app",
-    "short_name": "otc_app",
+    "name": "Orbit CRM",
+    "short_name": "Orbit CRM",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
