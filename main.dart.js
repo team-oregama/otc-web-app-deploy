@@ -141019,7 +141019,7 @@ $0(){this.a.y1=null},
 $S:0}
 A.bp4.prototype={
 $1(a){var s=null,r=A.t(a).ax,q=A.r(16),p=r.fy,o=t.p,n=A.y(A.a([A.X(B.dw,p,s,s),B.r,B.KL],o),B.j,B.e,B.f,0),m=this.b,l=A.f(u.C+m.b+"? This action cannot be undone.",s,s,s,s,s,s,s,s)
-return A.il(A.a([A.dy(B.KJ,s,s,new A.bp2(a),s,s),A.jD(B.KG,new A.bp3(this.a,a,m),A.eF(s,s,p,s,s,s,s,s,s,r.go,s,s,s,s,new A.ak(A.r(8),B.k),s,s,s,s,s))],o),s,l,s,new A.ak(q,B.k),n,s)},
+return A.il(A.a([A.dy(B.KK,s,s,new A.bp2(a),s,s),A.jD(B.KG,new A.bp3(this.a,a,m),A.eF(s,s,p,s,s,s,s,s,s,r.go,s,s,s,s,new A.ak(A.r(8),B.k),s,s,s,s,s))],o),s,l,s,new A.ak(q,B.k),n,s)},
 $S:48}
 A.bp2.prototype={
 $0(){A.b2(this.a,!1).aG(null)
@@ -141925,7 +141925,7 @@ return new A.Ca(this.b,s,null)},
 $S:1182}
 A.blO.prototype={
 $1(a){var s=null,r=A.t(a).ax,q=A.r(16),p=r.fy,o=t.p,n=A.y(A.a([A.X(B.dw,p,s,s),B.r,B.KL],o),B.j,B.e,B.f,0),m=this.b,l=A.f(u.C+m.b+"? This action cannot be undone.",s,s,s,s,s,s,s,s)
-return A.il(A.a([A.dy(B.KJ,s,s,new A.blM(a),s,s),A.jD(B.KG,new A.blN(this.a,a,this.c,m),A.eF(s,s,p,s,s,s,s,s,s,r.go,s,s,s,s,new A.ak(A.r(8),B.k),s,s,s,s,s))],o),s,l,s,new A.ak(q,B.k),n,s)},
+return A.il(A.a([A.dy(B.KK,s,s,new A.blM(a),s,s),A.jD(B.KG,new A.blN(this.a,a,this.c,m),A.eF(s,s,p,s,s,s,s,s,s,r.go,s,s,s,s,new A.ak(A.r(8),B.k),s,s,s,s,s))],o),s,l,s,new A.ak(q,B.k),n,s)},
 $S:48}
 A.blM.prototype={
 $0(){A.b2(this.a,!1).aG(null)
@@ -152005,7 +152005,7 @@ this.bX()
 this.dV()}}
 A.Hz.prototype={
 I(a){var s=null
-return A.eL(A.h2(s,s,s,s,s,s,A.aj(s,s,s,B.bP,s,s,new A.aIp(a),s,s,s,s,s),s,s,B.KK,s),s,A.bm(new A.cD(B.eM,new A.Bs(s,new A.aIq(a),new A.aIr(a),!1,s),s),s,s),s)}}
+return A.eL(A.h2(s,s,s,s,s,s,A.aj(s,s,s,B.bP,s,s,new A.aIp(a),s,s,s,s,s),s,s,B.KI,s),s,A.bm(new A.cD(B.eM,new A.Bs(s,new A.aIq(a),new A.aIr(a),!1,s),s),s,s),s)}}
 A.aIp.prototype={
 $0(){var s=A.cx(this.a).c
 s===$&&A.b()
@@ -152056,7 +152056,7 @@ $S:0}
 A.HB.prototype={
 I(a){var s=null,r=A.da(this.c,s)
 if(r==null)r=0
-return A.eL(A.h2(s,s,s,s,s,s,A.aj(s,s,s,B.bP,s,s,new A.aIx(a),s,s,s,s,s),s,s,B.KI,s),s,A.bm(new A.cD(B.eM,A.bSZ(this.d,!1,s,new A.aIy(a),s,new A.aIz(a),s,!1,!1,r),s),s,s),s)}}
+return A.eL(A.h2(s,s,s,s,s,s,A.aj(s,s,s,B.bP,s,s,new A.aIx(a),s,s,s,s,s),s,s,B.KJ,s),s,A.bm(new A.cD(B.eM,A.bSZ(this.d,!1,s,new A.aIy(a),s,new A.aIz(a),s,!1,!1,r),s),s,s),s)}}
 A.aIx.prototype={
 $0(){var s=A.cx(this.a).c
 s===$&&A.b()
@@ -153686,7 +153686,7 @@ p=A.aj(l,l,l,B.de,l,l,h.gaLO(),l,l,l,"Refresh list",l)
 o=h.go
 k=g||k<1100
 d=t.p
-e=A.x(l,A.y(A.a([s,B.r,r,B.L,new A.nk(q,new A.bLD(h,a),l),B.L,p,B.L,new A.mL(o,m.c instanceof A.jT,k,l),B.L,A.aj(l,l,l,B.f5,l,l,h.gaKK(),l,l,l,"Configure columns",l),B.L,A.aj(l,l,l,B.f4,l,l,h.gavv(),l,l,l,"Export",l),A.aj(l,l,l,B.f2,l,l,new A.bLE(a),l,l,l,"Import CSV (Coming soon)",l),B.r,A.i5(B.iM,B.KK,new A.bLF(h,j),A.eF(l,l,f.b,l,l,l,l,l,l,f.c,l,l,B.a4,l,new A.ak(A.r(12),B.k),l,l,l,l,l))],d),B.j,B.e,B.f,0),B.i,e,l,l,l,l,l,l,B.a4,l,l,l)
+e=A.x(l,A.y(A.a([s,B.r,r,B.L,new A.nk(q,new A.bLD(h,a),l),B.L,p,B.L,new A.mL(o,m.c instanceof A.jT,k,l),B.L,A.aj(l,l,l,B.f5,l,l,h.gaKK(),l,l,l,"Configure columns",l),B.L,A.aj(l,l,l,B.f4,l,l,h.gavv(),l,l,l,"Export",l),A.aj(l,l,l,B.f2,l,l,new A.bLE(a),l,l,l,"Import CSV (Coming soon)",l),B.r,A.i5(B.iM,B.KI,new A.bLF(h,j),A.eF(l,l,f.b,l,l,l,l,l,l,f.c,l,l,B.a4,l,new A.ak(A.r(12),B.k),l,l,l,l,l))],d),B.j,B.e,B.f,0),B.i,e,l,l,l,l,l,l,B.a4,l,l,l)
 k=f.to
 s=k==null
 if(s){r=f.q
@@ -155696,7 +155696,7 @@ r=A.r(10)
 r=A.x(j,A.X(B.xq,d.b,j,20),B.i,j,j,new A.E(s,j,j,r,j,j,B.l),j,j,j,j,B.a5,j,j,j)
 s=e.ok
 q=s.w
-q=A.f("Add Stock",j,j,j,j,q==null?j:q.ac(B.n),j,j,j)
+q=A.f("Add New Product",j,j,j,j,q==null?j:q.ac(B.n),j,j,j)
 s=s.Q
 if(s==null)s=j
 else{p=d.rx
@@ -166089,8 +166089,8 @@ B.ajS=new A.az("Edit Batch",null,null,null,null,null,null,null,null,null,null)
 B.a_I=s([B.f3,B.r,B.ajS],t.p)
 B.aaK=new A.eK(B.N,B.e,B.f,B.j,null,B.aB,null,0,B.a_I,null)
 B.a9A=new A.eR("edit",!0,48,B.aaK,null,t.wI)
-B.KI=new A.az("Edit Stock",null,null,null,null,null,null,null,null,null,null)
-B.a02=s([B.f3,B.r,B.KI],t.p)
+B.KJ=new A.az("Edit Stock",null,null,null,null,null,null,null,null,null,null)
+B.a02=s([B.f3,B.r,B.KJ],t.p)
 B.aaF=new A.eK(B.N,B.e,B.f,B.j,null,B.aB,null,0,B.a02,null)
 B.a9B=new A.eR("edit",!0,48,B.aaF,null,t.wI)
 B.Xu=new A.aF(B.mP,20,null,null,null)
@@ -166980,6 +166980,7 @@ B.akb=new A.az("Save Changes",null,null,null,null,null,null,null,null,null,null)
 B.akc=new A.az("Page Not Found",null,null,null,null,null,null,null,null,null,null)
 B.aki=new A.az("Enter Quantity",null,null,null,null,null,null,null,null,null,null)
 B.akj=new A.az("Payments",null,null,null,null,null,null,null,null,null,null)
+B.KI=new A.az("Add New Product",null,null,null,null,null,null,null,null,null,null)
 B.aiM=new A.a1(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.akk=new A.az("Reset All",null,B.aiM,null,null,null,null,null,null,null,null)
 B.je=new A.az("Pick Range from Calendar",null,null,null,null,null,null,null,null,null,null)
@@ -166992,8 +166993,7 @@ B.akq=new A.az("Create New Order",null,null,null,null,null,null,null,null,null,n
 B.cI=new A.az("Clear All",null,null,null,null,null,null,null,null,null,null)
 B.aks=new A.az("Create New",null,null,null,null,null,null,null,null,null,null)
 B.jf=new A.az("Try Again",null,null,null,null,null,null,null,null,null,null)
-B.KJ=new A.az("Go Back",null,null,null,null,null,null,null,null,null,null)
-B.KK=new A.az("Add Stock",null,null,null,null,null,null,null,null,null,null)
+B.KK=new A.az("Go Back",null,null,null,null,null,null,null,null,null,null)
 B.akx=new A.az("Purchase Details",null,null,null,null,null,null,null,null,null,null)
 B.jg=new A.az("Confirm Delete",null,null,null,null,null,null,null,null,null,null)
 B.aky=new A.az("Order Details",null,null,null,null,null,null,null,null,null,null)
